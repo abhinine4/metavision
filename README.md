@@ -1,1 +1,1 @@
-- Python package for fast image processing
+- pip install metavision
